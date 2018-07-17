@@ -1,0 +1,8 @@
+tensorflow-gpu
+keras
+ipython
+progressbar2
+scikit-learn[alldeps]
+beautifultable
+tensorboardX
+h5py

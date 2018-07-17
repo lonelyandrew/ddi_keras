@@ -1,0 +1,10786 @@
+[
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p45",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p46",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p47",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p48",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p49",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p51",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p52",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p53",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p54",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p55",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p56",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p57",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p58",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p59",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p63",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p64",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p65",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p66",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p67",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p68",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p69",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p70",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p71",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p72",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p73",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p74",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p78",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p83",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p84",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p85",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p86",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p87",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p88",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p89",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p90",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p91",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p92",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p93",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p94",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p95",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p96",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p100",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p101",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p102",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p103",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p104",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p105",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p106",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p107",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p108",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p109",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p110",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p111",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p112",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p113",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p117",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p118",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p119",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p120",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p121",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p122",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p123",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p124",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p125",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p126",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p127",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p128",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p129",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p133",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p134",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p135",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p136",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p137",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p138",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p139",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p140",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p141",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p142",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p143",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p144",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p148",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p149",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p150",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p151",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p152",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p153",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p154",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p155",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p156",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p157",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p158",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p162",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p163",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p164",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p165",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p166",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p167",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p168",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p169",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p170",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p171",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p175",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p176",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p177",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p178",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p179",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p180",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p181",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p182",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p183",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p187",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p188",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p189",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p190",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p191",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p192",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p193",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p194",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p198",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p199",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p200",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p201",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p202",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p203",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p204",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p208",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p209",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p210",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p211",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p212",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p213",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p217",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p218",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p219",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p220",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p221",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p225",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p226",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p227",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p228",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p232",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p233",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p234",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p238",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p239",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p243",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p250",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p251",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d655.s0.p252",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p45",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p46",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p47",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p48",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p51",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p52",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p53",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p54",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p55",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p57",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p58",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p59",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p60",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p61",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p63",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p64",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p65",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p66",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p68",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p69",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p70",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p72",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p73",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s0.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d639.s2.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d647.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d753.s0.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s0.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d637.s2.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d688.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d688.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d688.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d688.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p45",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p51",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p52",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p53",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p54",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p55",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p56",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p57",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p58",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p59",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p60",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p61",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p63",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p64",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p65",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p66",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p67",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p68",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p69",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p71",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p72",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p73",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p74",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p78",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p79",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p80",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p81",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p83",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p84",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p85",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p86",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p87",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p88",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p89",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p90",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p91",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p92",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p93",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p94",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p95",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p96",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p97",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p98",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p99",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p100",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p101",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p102",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p103",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d585.s0.p104",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s2.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s6.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s8.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s9.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s9.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s11.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s12.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s17.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s22.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s24.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s24.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d572.s27.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s7.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s11.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s12.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s12.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s14.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s19.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s19.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s19.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s20.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s20.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s20.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s23.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s23.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s26.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s26.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s27.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s28.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d597.s30.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s1.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s1.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s1.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s1.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s1.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s1.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s1.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s3.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s3.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s3.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s3.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s3.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s3.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s3.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s3.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s3.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d652.s3.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s2.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s2.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s2.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s2.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d668.s2.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d762.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s1.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s1.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s1.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s1.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s1.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s1.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s1.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d766.s3.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d678.s4.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s1.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s1.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s1.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s1.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s1.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s1.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s1.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s4.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s6.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s6.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s6.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s7.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d628.s7.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s4.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s4.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s4.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s4.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d784.s7.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s3.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s3.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s3.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d771.s3.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p45",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p46",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p47",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p48",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p49",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p51",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p52",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p53",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p54",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p55",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p56",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p57",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p58",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p59",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p60",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p61",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p62",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p63",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p64",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p65",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p66",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p67",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p68",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p69",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p70",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p71",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p72",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p73",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p74",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d627.s4.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p45",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p46",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p49",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d703.s0.p54",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d779.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d779.s16.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d779.s16.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s6.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s8.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s8.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s8.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s8.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s8.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s8.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s11.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s11.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s11.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s11.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s11.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s11.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s11.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s12.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s12.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d781.s16.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s2.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d604.s4.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d587.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d587.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s0.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s2.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p45",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p46",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p47",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p48",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p49",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p51",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p52",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p53",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p54",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p55",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p56",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p57",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p58",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p59",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p60",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p61",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p62",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p63",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p64",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p65",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p66",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p67",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p68",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p69",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p70",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p71",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p72",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p73",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p74",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p78",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p79",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p80",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p81",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p83",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p84",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p85",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p86",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p87",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p88",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p89",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p90",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p91",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p92",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p93",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p94",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p95",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p96",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p97",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p98",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p99",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p100",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p101",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p102",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p103",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p104",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p105",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p106",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p107",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p108",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p109",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p110",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p111",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p112",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p113",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p114",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p115",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p116",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p117",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p118",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p119",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p120",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p121",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p122",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p123",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p124",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p125",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p126",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p127",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p128",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p129",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p130",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p131",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p132",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p133",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p134",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d716.s5.p135",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d711.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d711.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d711.s2.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d711.s2.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d711.s2.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d711.s4.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p46",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p48",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p51",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p55",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p59",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p61",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p62",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p65",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p71",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p74",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p78",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p83",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p86",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p93",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p97",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p100",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p103",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p109",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p110",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p118",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p131",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p132",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d643.s0.p135",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d629.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d629.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p0",
+    "label_ix": 4
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p1",
+    "label_ix": 4
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p3",
+    "label_ix": 4
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p4",
+    "label_ix": 4
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d782.s0.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s5.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s5.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s5.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d648.s6.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d615.s0.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d725.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d725.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d725.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d725.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d717.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d717.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d605.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d605.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d605.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d630.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d721.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d721.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d721.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d721.s0.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d721.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d642.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s3.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s3.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s6.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s9.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d584.s10.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d757.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d757.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d661.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d661.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d661.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p45",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p46",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p47",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p49",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d576.s6.p52",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d773.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d773.s2.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d773.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d773.s2.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p78",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p79",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p80",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p81",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p83",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p84",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p85",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p86",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p87",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p88",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p89",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p90",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p91",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p92",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p93",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p94",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p95",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p96",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p97",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p98",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p99",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p100",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p101",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p102",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p103",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p104",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p105",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p106",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p107",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p108",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p109",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p110",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p111",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p112",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p113",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p114",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p115",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p116",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p117",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p118",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d726.s1.p119",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d618.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d618.s1.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d618.s1.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s1.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s4.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s4.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s4.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s4.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s4.p6",
+    "label_ix": 1
+  },
+  {
+    "pair_id": "ddi.drugbank.d709.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d575.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d575.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d575.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d575.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d610.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d610.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d610.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d610.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d610.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d610.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d610.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d619.s4.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d619.s4.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d619.s4.p5",
+    "label_ix": 2
+  },
+  {
+    "pair_id": "ddi.drugbank.d619.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p46",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p47",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p55",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p78",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p79",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p81",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p83",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p85",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p86",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s6.p88",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d737.s10.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d756.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d756.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d756.s4.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d756.s4.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d756.s4.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d756.s7.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s5.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s5.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s6.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s10.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s12.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s12.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s12.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s12.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s12.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s12.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s12.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s12.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s12.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s12.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d739.s13.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d665.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d665.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d665.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d665.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d665.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d696.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d696.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d696.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d653.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d653.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d653.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d653.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d653.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d636.s2.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d636.s2.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d636.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d636.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s1.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s6.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s6.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s10.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d752.s12.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d577.s6.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d682.s1.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d702.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s0.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s2.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s2.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s2.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s2.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s2.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s2.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s2.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s5.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s5.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s5.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s5.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d735.s5.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d578.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d578.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d578.s4.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d578.s4.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d578.s8.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s2.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s6.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s6.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s6.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s6.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s6.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s7.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s8.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s9.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d700.s16.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d671.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d699.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d699.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d699.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d699.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d699.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d699.s0.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d699.s0.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d699.s0.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d699.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d699.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d712.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d712.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d712.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d744.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d649.s1.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d777.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d777.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d751.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d751.s1.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s0.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s0.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s0.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s0.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s0.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s3.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s3.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s3.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d624.s3.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p45",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p47",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p48",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p49",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p55",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p56",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p57",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p58",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p59",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p60",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p61",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p62",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p63",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p64",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p65",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p66",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p67",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p68",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p69",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p70",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p71",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p72",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p73",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p74",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p78",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p79",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p80",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p81",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p83",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p84",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p85",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p86",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p87",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p88",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p89",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s2.p90",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s4.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d675.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d608.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d608.s5.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s2.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d676.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d573.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d573.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p47",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p48",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p49",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p51",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p52",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p53",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p54",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p55",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p56",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p57",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p69",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p70",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p71",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p72",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p73",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p74",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p78",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p90",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p91",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p92",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p93",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p94",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p95",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p96",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p97",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p98",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p110",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p111",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p112",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p113",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p114",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p115",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p116",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p117",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p129",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p130",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p131",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p132",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p133",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p134",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p135",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p147",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p148",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p149",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p150",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p151",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p152",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p164",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p165",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p166",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p167",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p168",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p180",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p181",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p182",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p183",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p195",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p196",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p197",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p209",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p210",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p222",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p245",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p246",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p247",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p248",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p249",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p250",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p251",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p252",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p253",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p254",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p255",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p256",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p257",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p258",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p259",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p260",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p261",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p262",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p263",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p264",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p265",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p266",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p267",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p268",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p269",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p270",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p271",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p272",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p273",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p274",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p275",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p276",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p277",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p278",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p279",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p280",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p281",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p282",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p283",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p284",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p285",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p286",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p287",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p288",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p289",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p290",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p291",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p292",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p293",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p294",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p295",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p296",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p297",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p298",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s1.p299",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s8.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s8.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s8.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d680.s9.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d765.s1.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d689.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d656.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d656.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d656.s1.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d656.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d656.s2.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d656.s2.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d650.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d650.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d650.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d650.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d650.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d650.s0.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d650.s0.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d650.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s6.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s9.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s12.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s12.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s12.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s12.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s12.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s12.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s13.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s15.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s15.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s16.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d633.s18.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d741.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d622.s3.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s2.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p70",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p71",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p72",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p73",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p74",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p78",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p79",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p80",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p81",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p83",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p84",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p85",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p86",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p87",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p88",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p89",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d603.s5.p90",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d694.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d694.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d698.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d698.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d698.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d632.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d632.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d632.s6.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d783.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d783.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d783.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d783.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d783.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d783.s0.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d783.s0.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d783.s0.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d783.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d783.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s2.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d713.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d669.s1.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d598.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d720.s3.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p45",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p46",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p47",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p48",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p49",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p51",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p52",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p53",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d638.s2.p54",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d722.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d722.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d722.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d722.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d722.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d722.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d722.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d679.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d579.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d631.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d631.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d631.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d631.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d606.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d606.s1.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d606.s1.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d606.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d606.s1.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d606.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s8.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s8.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s8.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s8.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s11.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s11.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d588.s13.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s1.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s1.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s1.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s2.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s2.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s2.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s6.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s6.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s6.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s7.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s7.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s7.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s8.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s8.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s9.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s9.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s9.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s9.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s10.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s10.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s10.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s10.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s11.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s12.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d761.s13.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s3.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s4.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s5.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d763.s5.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d641.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d641.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d641.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d641.s5.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s2.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s2.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d659.s4.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d654.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d654.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d736.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d609.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d723.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d723.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d723.s0.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d723.s0.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s3.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s3.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s3.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s3.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s6.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s6.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s6.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s6.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s6.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s6.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s7.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s8.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s8.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d596.s9.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s2.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s2.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s2.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s2.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d645.s9.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d599.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d599.s7.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d599.s7.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d599.s7.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d599.s7.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d599.s7.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d599.s7.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d738.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d738.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d738.s1.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d677.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d677.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d677.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d677.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d677.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d677.s0.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d677.s0.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d677.s0.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d677.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d677.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d613.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d697.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s3.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s3.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s5.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s6.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s6.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s6.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s6.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s6.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s9.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s9.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s9.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s10.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s10.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s10.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s10.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s10.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s10.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s10.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s10.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s10.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d640.s10.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d590.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d769.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d769.s2.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d769.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s0.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s5.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s6.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s6.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s7.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s7.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s7.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s8.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d780.s8.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d742.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d742.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d742.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d742.s9.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s2.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s5.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s5.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s5.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s5.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s8.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s8.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s8.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s8.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s8.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s8.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s9.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s9.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s9.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s9.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d743.s12.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d591.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d591.s3.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d591.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d591.s3.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d591.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d591.s6.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p18",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p19",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p20",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p21",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p22",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p23",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p24",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d601.s0.p27",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d666.s2.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d666.s2.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d666.s2.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d634.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d634.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d634.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d634.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d634.s5.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d634.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d710.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d710.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d710.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d710.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d710.s1.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d710.s1.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d695.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d695.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s5.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p30",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p31",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p32",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p33",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p34",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p35",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p36",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p41",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p42",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p43",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p44",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p45",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p46",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p47",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p48",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p49",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p51",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p52",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p53",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p54",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p55",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p56",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p57",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p58",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p59",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p60",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p61",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p62",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p63",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p64",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p65",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p66",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p67",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p68",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p69",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p70",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p71",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p72",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p73",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p74",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p78",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p79",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p80",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p81",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p83",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p84",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p85",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p86",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p87",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p88",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p89",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p90",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p91",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p92",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p93",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p94",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p95",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p96",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p97",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p98",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p99",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p100",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p101",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p102",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p103",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p104",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p105",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p106",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p107",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p108",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p109",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p114",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p115",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p116",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p117",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p118",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s10.p119",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p15",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p16",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s11.p17",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d775.s13.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d611.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d611.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p25",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p26",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p28",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p29",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p37",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p38",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p39",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p40",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p48",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p49",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p50",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p51",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p52",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p53",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p57",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p58",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p59",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p60",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p61",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p62",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p66",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p67",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p68",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p69",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p70",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p74",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p75",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p76",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p77",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p81",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p82",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p83",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p87",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p88",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p89",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p93",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p94",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p97",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p98",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p100",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p101",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p102",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s2.p103",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s4.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s4.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s4.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s6.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s10.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s10.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s11.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s13.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s13.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s14.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s16.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s16.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s18.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s18.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s19.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s20.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s20.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s25.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s25.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s26.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s28.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s28.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s31.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s31.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s33.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s33.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s35.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s35.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s35.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s35.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s36.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s37.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s38.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s38.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s41.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s41.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.drugbank.d776.s41.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d190.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d190.s2.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d190.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d190.s2.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d190.s2.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d190.s2.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d190.s2.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d147.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d154.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d154.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d154.s6.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d184.s5.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d184.s5.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d184.s8.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d184.s8.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d184.s8.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d184.s8.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d227.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d227.s6.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d227.s7.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d227.s9.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s4.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s4.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s4.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s4.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s4.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s4.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s4.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s4.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d217.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d201.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d201.s9.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d204.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d204.s7.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d204.s7.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d204.s7.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d204.s7.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d204.s7.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d169.s0.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d169.s1.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d169.s2.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d169.s3.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d169.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d169.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d169.s10.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d143.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d143.s6.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d200.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d200.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d200.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d200.s7.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d200.s8.p0",
+    "label_ix": 2
+  },
+  {
+    "pair_id": "ddi.medline.d200.s10.p0",
+    "label_ix": 2
+  },
+  {
+    "pair_id": "ddi.medline.d166.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d180.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d180.s10.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d180.s10.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d180.s10.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d180.s12.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d213.s5.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s4.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s4.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s4.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s4.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s4.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s4.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s5.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s5.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d161.s8.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d194.s10.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d194.s10.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d194.s10.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d194.s10.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d179.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d179.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d179.s10.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d179.s10.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d179.s10.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d179.s10.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d164.s1.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d164.s1.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d164.s2.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d164.s5.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d231.s3.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d231.s3.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d231.s3.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d231.s3.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d231.s3.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d231.s3.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d211.s0.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d211.s0.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d189.s3.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d189.s11.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d193.s0.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d193.s0.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d193.s1.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d193.s2.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d193.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d185.s0.p3",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d185.s12.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d185.s13.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d216.s2.p2",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d216.s3.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d216.s4.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d214.s2.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s5.p0",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s8.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s8.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s8.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s8.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s8.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s8.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s10.p5",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s10.p6",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s10.p7",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s10.p8",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s10.p9",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s10.p10",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s10.p11",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s10.p12",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s10.p13",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d218.s10.p14",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d195.s4.p4",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d195.s6.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d199.s3.p1",
+    "label_ix": 0
+  },
+  {
+    "pair_id": "ddi.medline.d199.s4.p2",
+    "label_ix": 0
+  }
+]
