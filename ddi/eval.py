@@ -14,11 +14,12 @@ from sklearn.metrics import (confusion_matrix, f1_score, precision_score,
                              recall_score)
 
 
-def evaluation(model, epoch, writer=None):
+def evaluation(model, epoch, config, writer=None):
     logging.info('EVALUATING')
     test_dataset_path = os.getenv('test_dataset_path')
     test_dataset = load_dataset(test_dataset_path)
-    batch_list = generate_batch(test_dataset, batch_size=16)
+    batch_list = generate_batch(test_dataset,
+                                batch_size=config['eval_batch_size'])
     y_true_list = []
     y_pred_list = []
 

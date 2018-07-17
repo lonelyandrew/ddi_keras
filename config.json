@@ -9,10 +9,12 @@
     "lr": 0.0004,
     "len_limit": 80,
     "block_count": 4,
-    "fc_weight_decay": 0.009,
+    "fc_weight_decay": 0.006,
     "d_offset": 20,
-    "d_ff": 512,
-    "d_hidden": 300,
+    "d_ff": 600,
+    "d_hidden": 250,
     "h": 5,
-    "batch_size": 128
+    "batch_size": 128,
+    "eval_batch_size": 16,
+    "optimizer": "adam"
 }

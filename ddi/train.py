@@ -56,7 +56,7 @@ def train():
         logging.info(f'LOSS {epoch_ix+1}/{epochs}: {loss_in_epoch}')
         writer.add_scalar('loss', loss_in_epoch, epoch_ix)
 
-        eval_f1 = evaluation(ddi_model.model, epoch_ix, writer)
+        eval_f1 = evaluation(ddi_model.model, epoch_ix, config, writer)
         if eval_f1 > max_f1:
             max_f1 = eval_f1
             max_f1_epoch = epoch_ix

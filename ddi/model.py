@@ -78,8 +78,9 @@ class Transformer:
                         bias_regularizer=fc_regularizer)
 
         # optimizer
-        self.optimizer = optimizers.Adam(config['lr'])
-        # self.optimizer = optimizers.Adam(config['lr'])
+        optimizer_config = {'class_name': config['optimizer'],
+                            'config': {'lr': config['lr']}}
+        self.optimizer = optimizers.get(optimizer_config)
 
     def get_pos_seq(self, x):
         mask = K.cast(K.not_equal(x, 0), 'int32')
