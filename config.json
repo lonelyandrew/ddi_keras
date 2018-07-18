@@ -2,7 +2,7 @@
     "epochs": 150,
     "dropout": {
         "emb": 0.3,
-        "lstm": 0.3,
+        "lstm": 0.2,
         "block": 0.3,
         "encoder": 0.3
     },
@@ -11,7 +11,7 @@
     "block_count": 4,
     "fc_weight_decay": 0.006,
     "d_offset": 20,
-    "d_ff": 600,
+    "d_ff": 512,
     "d_hidden": 250,
     "h": 5,
     "batch_size": 128,
