@@ -3,7 +3,7 @@
 import os
 from keras import optimizers
 from keras.layers import (LSTM, Bidirectional, Input, Lambda, Dropout,
-                          Embedding, Concatenate, Add)
+                          Embedding, Concatenate, Add, CuDNNLSTM)
 from keras.layers import Dense
 from keras import regularizers
 from keras import backend as K
@@ -63,7 +63,7 @@ class Transformer:
         # blstm
         d_hidden = config['d_hidden']
         # lstm_regularizer = regularizers.l2(config['lstm_weight_decay'])
-        lstm = LSTM(d_hidden, return_sequences=True, name='lstm')
+        lstm = CuDNNLSTM(d_hidden, return_sequences=True, name='lstm')
         self.blstm = Bidirectional(lstm, merge_mode='concat', name='blstm')
         self.blstm_dropout = Dropout(config['dropout']['lstm'])
 

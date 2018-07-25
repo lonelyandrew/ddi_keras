@@ -1,5 +1,5 @@
 {
-    "epochs": 150,
+    "epochs": 500,
     "dropout": {
         "emb": 0.3,
         "lstm": 0.2,
@@ -9,12 +9,12 @@
     "lr": 0.0004,
     "len_limit": 80,
     "block_count": 4,
-    "fc_weight_decay": 0.006,
+    "fc_weight_decay": 0.009,
     "d_offset": 20,
     "d_ff": 512,
     "d_hidden": 250,
     "h": 5,
     "batch_size": 128,
-    "eval_batch_size": 16,
+    "eval_batch_size": 128,
     "optimizer": "adam"
 }
