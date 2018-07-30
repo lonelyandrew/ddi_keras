@@ -2,7 +2,7 @@
 
 import os
 from keras import optimizers
-from keras.layers import (LSTM, Bidirectional, Input, Lambda, Dropout,
+from keras.layers import (Bidirectional, Input, Lambda, Dropout,
                           Embedding, Concatenate, Add, CuDNNLSTM)
 from keras.layers import Dense
 from keras import regularizers
